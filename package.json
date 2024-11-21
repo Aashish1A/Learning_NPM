@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "05.-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashish Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.13.0",
+    "process": "^0.11.10"
+  }
+}
